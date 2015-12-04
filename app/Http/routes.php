@@ -22,3 +22,12 @@ Route::get('/productos', function () {
 Route::get('/contacto', function () {
     return view('contacto');
 });
+
+Route::get('/sendmail', function () {
+	Mail::send('emails.test', ['user' => 'null'], function ($m) {
+            $m->from('ramonlv93@gmail.com', 'Ramon');
+
+            $m->to('ramoni_93_@hotmail.com', 'ramon LEdezma')->subject('Your Reminder!');
+    });
+    return view('portada');
+});
