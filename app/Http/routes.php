@@ -24,10 +24,10 @@ Route::get('/contacto', function () {
 });
 
 Route::get('/sendmail', function () {
-	Mail::send('emails.test', ['user' => 'null'], function ($m) {
-            $m->from('ramonlv93@gmail.com', 'Ramon');
+	$mail = Mail::send('emails.test', ['user' => 'null'], function ($m) {
+            $m->from('info@repuestoslosgallegos.com.ve', 'Repuestos Los Gallegos, C.A.');
 
-            $m->to('ramoni_93_@hotmail.com', 'ramon LEdezma')->subject('Your Reminder!');
+            $m->to('ramonlv93@gmail.com', 'ramon LEdezma')->subject('Your Reminder!');
     });
-    return view('portada');
+    return dd($mail);
 });
