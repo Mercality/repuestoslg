@@ -1,7 +1,7 @@
 @extends('layouts.master')
 @section('content')
 <div class="container">
-	<legend><h1>Productos</h1></legend>
+	<legend><h1>Productoss</h1></legend>
 		<div class="row">
 			<div class="producto col-md-3 col-sm-6">
 			    <div class="thumbnail">
