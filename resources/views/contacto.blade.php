@@ -1,4 +1,5 @@
 @extends('layouts.master')
+@section('title', 'Repuestos Los Gallegos, C.A - Contacto')
 @section('content')
 <div class="mapa" id="googleMap2">
 	

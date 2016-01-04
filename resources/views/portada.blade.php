@@ -1,4 +1,5 @@
 @extends('layouts.master')
+@section('title', 'Repuestos Los Gallegos, C.A - Inicio')
 @section('content')
 <div class="portada">
 	<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">

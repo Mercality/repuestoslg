@@ -1,4 +1,5 @@
 @extends('layouts.master')
+@section('title', 'Repuestos Los Gallegos, C.A - Productos')
 @section('content')
 <div class="container">
 	<legend><h1>Productos</h1></legend>
