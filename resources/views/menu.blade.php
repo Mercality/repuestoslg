@@ -8,7 +8,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-				  	<a href="#" class="navbar-brand"><img src="{{asset('images/icogallegos.png')}}" alt="los gallegos" width=""></a>
+				  	<a href="#" class="navbar-brand"><img src="{{asset('images/icogallegos2.png')}}" alt="los gallegos" width=""></a>
 				</div>
 
 				<div id="navbar" class="navbar-collapse collapse">
