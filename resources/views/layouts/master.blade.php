@@ -6,6 +6,7 @@
 	<title>@yield('title')</title>
 	<link rel="stylesheet" href="css/bootstrap.css" type="text/css">
 	<link rel="stylesheet" href="css/miestilo.css" type="text/css">
+	<link rel="shortcut icon" href="images/favicon.ico"/>
 </head>
 <body>
 
