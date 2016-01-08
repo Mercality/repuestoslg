@@ -3,6 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="description" content="Venta de repuestos para carros automóviles. Piezas de motor(anillos, pistones, empacaduras), suspensión, frenos y embrague, filtros de aceite, agua, aire gasolina así como partes eléctricas y otros miscelaneos.">
 	<title>@yield('title')</title>
 	<link rel="stylesheet" href="css/bootstrap.css" type="text/css">
 	<link rel="stylesheet" href="css/miestilo.css" type="text/css">
