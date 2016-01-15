@@ -36,7 +36,7 @@
 						<td>
 							<div>0235-3422077 / 3416176</div>
 							<div>gerente.sonia@repuestoslosgallegos.com.ve</div>
-							<div>compras.daniel@repuestoslosgallegos.com.ve</div>
+							<div>compras.diego@repuestoslosgallegos.com.ve</div>
 						</td>
 					</tr>
 					<tr>
@@ -52,7 +52,7 @@
 							<div><a href="mailto:#">ventas.anibal@repuestoslosgallegos.com.ve</a></div>
 							<div><strong>Francisco Farias:</strong></div>
 							<div>Tlf. 0426-2353208</div>
-							<div><a href="mailto:#">ventas.farias@repuestoslosgallegos.com.ve</a></div>
+							<div><a href="mailto:#">ventas.francisco@repuestoslosgallegos.com.ve</a></div>
 						</td>
 					</tr>
 				</table>

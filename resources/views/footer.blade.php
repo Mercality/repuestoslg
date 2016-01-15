@@ -5,21 +5,24 @@
 			<p>
 				<div><span class="glyphicon glyphicon-phone-alt"></span> 0235-3422077 / 3416176</div>
 				<div>gerente.sonia@repuestoslosgallegos.com.ve</div>
-				<div>compras.daniel@repuestoslosgallegos.com.ve</div>
+				<div>compras.diego@repuestoslosgallegos.com.ve</div>
 			</p>
 			<h3>Contacto Ventas:</h3>
-			<div><strong>Gregory Rengifo:</strong></div>
 			<p>
+			<div><strong>Gregory Rengifo:</strong></div>
+			
 				<div><span class="glyphicon glyphicon-phone-alt"></span> Tlf. 0414-4935771</div>
 				<div>ventas.gregory@repuestoslosgallegos.com.ve</div>
 			</p>
-			<div><strong>Anibal Ortega:</strong></div>
 			<p>
+			<div><strong>Anibal Ortega:</strong></div>
+			
 				<div><span class="glyphicon glyphicon-phone-alt"></span> Tlf. 0426-2381023</div>
 				<div>ventas.anibal@repuestoslosgallegos.com.ve</div>
 			</p>
-			<div><strong>Francisco Farias:</strong></div>
 			<p>
+			<div><strong>Francisco Farias:</strong></div>
+			
 				<div><span class="glyphicon glyphicon-phone-alt"></span> Tlf. 0426-2353208</div>
 				<div>ventas.francisco@repuestoslosgallegos.com.ve</div>
 			</p>
