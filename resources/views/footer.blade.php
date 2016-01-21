@@ -40,7 +40,7 @@
 			<div><h3>Mapa</h3><div id="googleMap" class="mapa"></div></div>			
 		</div>
 		<div class="col-md-12 col-sm-12">
-			<p class="text-center">REPUESTOS LOS GALLEGOS C.A - J30400801-5</p>
+			<p class="text-center">REPUESTOS LOS GALLEGOS CA - J30400801-5</p>
 		</div>
 	</div>
 </footer>
